@@ -1,3 +1,3 @@
-# Summer 2023 Projects
+SPS
 
-1. Financial Expense Tracker
+Some Python Stuff
